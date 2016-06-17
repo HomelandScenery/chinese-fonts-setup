@@ -1,3 +1,10 @@
+
+cfs-spacing.el由tumashu大神原创，末学仅是复制。由于大大未将该段代码加入cfs ，故末学先行复制以免丢失。详见https://github.com/tumashu/chinese-fonts-setup
+ 
+
+
+------
+
 - [Chinese-fonts-setup README](#chinese-fonts-setup-readme)
   - [简介](#简介)
   - [基本原理](#基本原理)
